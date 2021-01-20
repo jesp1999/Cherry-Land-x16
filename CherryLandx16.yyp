@@ -1,5 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"spr_kinematic_parent","path":"sprites/spr_kinematic_parent/spr_kinematic_parent.yy",},"order":5,},
+    {"id":{"name":"obj_bouncy","path":"objects/obj_bouncy/obj_bouncy.yy",},"order":0,},
+    {"id":{"name":"spr_cherry_blue","path":"sprites/spr_cherry_blue/spr_cherry_blue.yy",},"order":0,},
+    {"id":{"name":"spr_wall_brick","path":"sprites/spr_wall_brick/spr_wall_brick.yy",},"order":1,},
+    {"id":{"name":"obj_solid_parent","path":"objects/obj_solid_parent/obj_solid_parent.yy",},"order":1,},
+    {"id":{"name":"obj_cherry_player","path":"objects/obj_cherry_player/obj_cherry_player.yy",},"order":0,},
+    {"id":{"name":"spr_static_parent","path":"sprites/spr_static_parent/spr_static_parent.yy",},"order":4,},
+    {"id":{"name":"spr_wall_brick2","path":"sprites/spr_wall_brick2/spr_wall_brick2.yy",},"order":2,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"obj_static_parent","path":"objects/obj_static_parent/obj_static_parent.yy",},"order":0,},
+    {"id":{"name":"spr_dynamic_parent","path":"sprites/spr_dynamic_parent/spr_dynamic_parent.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -33,6 +44,11 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/playable.yy","order":2,"resourceVersion":"1.0","name":"playable","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/solids.yy","order":3,"resourceVersion":"1.0","name":"solids","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/solids/static.yy","order":0,"resourceVersion":"1.0","name":"static","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/solids/dynamic.yy","order":1,"resourceVersion":"1.0","name":"dynamic","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/parents.yy","order":4,"resourceVersion":"1.0","name":"parents","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
